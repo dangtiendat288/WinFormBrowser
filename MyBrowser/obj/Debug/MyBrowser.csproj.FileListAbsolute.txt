@@ -1,0 +1,10 @@
+D:\CSE445\MyBrowser\MyBrowser\bin\Debug\MyBrowser.exe.config
+D:\CSE445\MyBrowser\MyBrowser\bin\Debug\MyBrowser.exe
+D:\CSE445\MyBrowser\MyBrowser\bin\Debug\MyBrowser.pdb
+D:\CSE445\MyBrowser\MyBrowser\obj\Debug\MyBrowser.csproj.AssemblyReference.cache
+D:\CSE445\MyBrowser\MyBrowser\obj\Debug\MyBrowser.Form1.resources
+D:\CSE445\MyBrowser\MyBrowser\obj\Debug\MyBrowser.Properties.Resources.resources
+D:\CSE445\MyBrowser\MyBrowser\obj\Debug\MyBrowser.csproj.GenerateResource.cache
+D:\CSE445\MyBrowser\MyBrowser\obj\Debug\MyBrowser.csproj.CoreCompileInputs.cache
+D:\CSE445\MyBrowser\MyBrowser\obj\Debug\MyBrowser.exe
+D:\CSE445\MyBrowser\MyBrowser\obj\Debug\MyBrowser.pdb
